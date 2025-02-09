@@ -4,7 +4,6 @@
 <img align="left" alt="Redux" height="30px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
 <img align="left" alt="JavaScript" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="TypeScript" height="35px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
-<img align="left" alt="TypeScript" height="35px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 
 </br>
 </br>
